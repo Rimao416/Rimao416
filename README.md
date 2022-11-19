@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rimao416
-- 👀 Je suis interessé par tout ce qui concerne le développement
-- 🌱 Développeur Symphony
+- Hi, I’m @Rimao416
+- Je suis interessé par tout ce qui concerne le développement
+- Développeur Symfony
 - Développeur MERN Stack
 - UI/UX Designer
 - 💞️ Je cherche des gens avec qui je pourrais vraiment travailler et qui vont m'aider à progresser
