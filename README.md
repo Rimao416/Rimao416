@@ -1,9 +1,9 @@
-# 🌟 Hey, moi c'est Rimao ! 
-### *Full-Stack Architect | Creative Technologist | Digital Craftsman*
+# 🌟 Hey, moi c’est Omari !  
+### *MERN Stack Developer | Software Architect | Visionary Builder*
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Symfony+Expert+%F0%9F%8E%BC;MERN+Stack+Ninja+%E2%9A%A1;Vue.js+Enthusiast+%F0%9F%92%9A;Flutter+Developer+%F0%9F%93%B1;AI+%26+ML+Explorer+%F0%9F%A4%96;Blockchain+Pioneer+%E2%9B%93;Cloud+Architect+%E2%98%81%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer+💻;Next.js+%2B+Node.js+Architect+⚙️;React+Native+App+Creator+📱;AI+%26+Automation+Explorer+🧠;Content+Creator+%26+Mentor+🔥;Visionnaire+chrétien+🌿)
 
 </div>
 
@@ -11,220 +11,133 @@
 
 ## 🚀 À propos de moi
 
-> **Architecte logiciel** passionné qui transforme des concepts complexes en solutions élégantes et performantes. 
-> 
-> Entre innovation technique et créativité design, je crée des expériences digitales qui marquent.
+> **Développeur full-stack MERN** passionné par la création d’applications qui ont du sens.  
+> J’allie **technologie, vision et impact** pour bâtir des plateformes qui transforment des idées en expériences puissantes.  
+>  
+> 🎯 Objectif : construire des produits digitaux solides, inspirants et porteurs de valeur.
 
 ---
 
-## 💻 Arsenal Technique
+## 💻 Stack Technique
 
-### 🎯 **Backend & Architecture**
+### ⚙️ **Backend & Architecture**
 ```yaml
-Core Frameworks:
-  - Symfony (6.x) - Architecture hexagonale, DDD, CQRS
-  - Laravel (10.x) - Eloquent ORM, Artisan, Queues
-  - Node.js/Express - API REST, GraphQL, WebSockets
-  - Django/FastAPI - Machine Learning intégré
-  - Spring Boot - Microservices, Docker, Kubernetes
-
-Databases & Storage:
-  - PostgreSQL/MySQL - Optimisation requêtes, indexation
-  - MongoDB - Aggregation, Sharding
-  - Redis - Cache, Sessions, Pub/Sub
-  - Elasticsearch - Recherche full-text, analytics
-  - Neo4j - Graphes, recommandations
+Core Technologies:
+  - Node.js / Express.js - RESTful APIs, microservices, architecture claire
+  - MongoDB - Schemas dynamiques, agrégations complexes
+  - JWT / Bcrypt - Authentification sécurisée
+  - Cloudinary / Firebase - Gestion fichiers et stockage
+  - MVC & Clean Architecture - Structuration claire et évolutive
 ```
 
-### ⚡ **Frontend & Mobile**
+### 💡 **Frontend & Mobile**
 ```yaml
-Web Technologies:
-  - React/Next.js - SSR, SSG, Hydration
-  - Vue.js/Nuxt.js - Composition API, Pinia
-  - Angular - RxJS, NgRx, Standalone Components
-  - Svelte/SvelteKit - Compilation optimisée
-  - TypeScript - Types avancés, Generics
-
-Mobile Development:
-  - Flutter/Dart - Cross-platform native
-  - React Native - Performance native
-  - Swift/SwiftUI - iOS natif
-  - Kotlin - Android moderne
+Web & Mobile:
+  - React.js / Next.js - SSR, SSG, hooks avancés, Zustand, TanStack Query
+  - React Native - Applications mobiles fluides et performantes
+  - Redux Toolkit - Gestion d’état efficace
+  - Tailwind CSS / Shadcn UI - Interfaces modernes et responsives
+  - TypeScript - Code robuste et maintenable
 ```
 
-### 🎨 **Design & Creative Tech**
+### 🧠 **AI & Automatisation**
 ```yaml
-UI/UX Design:
-  - Figma - Design Systems, Auto-Layout, Prototyping
-  - Adobe Creative Suite - Photoshop, Illustrator, After Effects
-  - Sketch - Symbols, Libraries
-  - Framer - Interactions complexes, micro-animations
-
-3D & Animation:
-  - Three.js/WebGL - Expériences 3D immersives  
-  - Blender - Modélisation, animation 3D
-  - Lottie - Animations vectorielles
-  - GSAP - Animations haute performance
+AI Integration:
+  - OpenAI API - Automatisation intelligente
+  - LangChain - Apps pilotées par LLMs
+  - Workflow Automation - Productivité et intégration no-code/low-code
 ```
 
-### ☁️ **Cloud & DevOps**
+### ☁️ **DevOps & Outils**
 ```yaml
-Cloud Platforms:
-  - AWS - EC2, S3, Lambda, RDS, CloudFront
-  - Google Cloud - Firebase, App Engine, BigQuery
-  - Azure - App Service, Cosmos DB, Functions
-  - DigitalOcean - Droplets, Kubernetes
-
-DevOps & CI/CD:
-  - Docker/Kubernetes - Conteneurisation, orchestration
-  - GitHub Actions/GitLab CI - Pipelines automatisées
-  - Terraform - Infrastructure as Code
-  - Ansible - Configuration management
-  - Prometheus/Grafana - Monitoring, alerting
-```
-
-### 🤖 **Emerging Technologies**
-```yaml
-AI & Machine Learning:
-  - TensorFlow/PyTorch - Deep Learning, Computer Vision
-  - OpenAI API - GPT integration, embeddings
-  - Hugging Face - NLP, transformers
-  - LangChain - LLM applications
-
-Blockchain & Web3:
-  - Solidity - Smart contracts, DeFi
-  - Ethereum/Polygon - dApps development
-  - Web3.js/Ethers.js - Blockchain interaction
-  - IPFS - Stockage décentralisé
-
-IoT & Hardware:
-  - Arduino/Raspberry Pi - Prototypage électronique
-  - MQTT - Communication IoT
-  - LoRaWAN - Réseaux longue portée
+Tools & Deployment:
+  - Git / GitHub - Versioning propre et structuré
+  - Docker - Environnements isolés
+  - Render / Vercel - Déploiement continu
+  - Postman / Thunder Client - Tests d’API
+  - Trello / Notion - Organisation de projets
 ```
 
 ---
 
-## 🎨 **Design Philosophy**
+## 🧩 Projets & Réalisations
 
-<details>
-<summary>🎭 <strong>Design Systems & Brand Identity</strong></summary>
+### 📚 **Plateforme de Lecture et Partage de Contenus**
+> **Stack :** ReactJS, Node.js, Express, MongoDB, ReduxToolkit  
+> Application permettant la lecture, l’écoute et le partage de contenus numériques chrétiens.
 
-- **Atomic Design** - Composants modulaires et réutilisables
-- **Design Tokens** - Cohérence visuelle à grande échelle  
-- **Accessibility First** - WCAG 2.1 AA compliance
-- **Motion Design** - Micro-interactions significatives
-- **Data Visualization** - D3.js, Chart.js, dashboards interactifs
+### 📱 **Application de Commandes pour Entreprises**
+> **Stack :** React Native, Node.js, MongoDB  
+> Application mobile complète avec gestion multilingue et espace administrateur.
 
-</details>
+### ⛪ **Church Management App**
+> **Stack :** MERN Stack + Architecture modulaire  
+> Gestion complète d’églises : membres, cultes, offrandes, départements et plannings.
 
-<details>
-<summary>🧠 <strong>UX Research & Strategy</strong></summary>
-
-- **User Journey Mapping** - Personas, empathy maps
-- **A/B Testing** - Optimisation basée données
-- **Analytics** - Google Analytics, Hotjar, Mixpanel
-- **Design Thinking** - Ateliers créatifs, idéation
-- **Prototyping** - De la wireframe au prototype haute-fidélité
-
-</details>
+### 🌍 **Projet “Glorious Purpose”**
+> Vision d’un écosystème digital comprenant une **application de type Instagram**, conçue pour inspirer, connecter et impacter.
 
 ---
 
-## 🏆 **Projets Signature**
+## 🧭 Philosophie de Travail
 
-### 🌐 **E-Commerce Next-Gen**
-> **Stack :** Next.js 14, Symfony API Platform, PostgreSQL, Redis, Stripe
-> 
-> Plateforme e-commerce avec IA de recommandation, paiements crypto, PWA
-
-### 🎮 **Gaming Analytics Dashboard** 
-> **Stack :** Vue.js, D3.js, Python FastAPI, MongoDB, WebSockets
->
-> Dashboard temps réel pour métriques gaming avec visualisations 3D
-
-### 📱 **FinTech Mobile App**
-> **Stack :** Flutter, Node.js, PostgreSQL, Plaid API, Biometric Auth
->
-> App bancaire mobile avec gestion budgets IA et sécurité biométrique
-
-### 🏥 **HealthTech Platform**
-> **Stack :** React, Django, TensorFlow, FHIR, AWS Lambda
->
-> Diagnostic assisté par IA avec conformité HIPAA et interopérabilité
+> Je ne code pas juste des fonctionnalités, **je construis des fondations**.  
+>  
+> Chaque ligne est pensée pour la **clarté**, la **scalabilité** et **l’expérience utilisateur**.  
+>  
+> Mon credo : **Discipline, excellence et impact.**
 
 ---
 
-## 📈 **GitHub Stats**
+## 🎓 Formateur & Mentor
+
+> J’ai formé et accompagné plusieurs développeurs à travers un **bootcamp MERN Stack** de 4 mois.  
+> Mon approche est basée sur :
+> - La **pratique réelle** (projets concrets)  
+> - La **rigueur architecturale**  
+> - Et le **développement personnel du codeur**.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimao416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimao416&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rimao416&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌍 **Open Source & Community**
+## 💬 Valeurs & Motivation
 
-```yaml
-Contributions:
-  - 🎼 Symfony Components - Bundle validation avancée
-  - ⚛️ React Ecosystem - Hooks performance optimisés  
-  - 🎨 Design Systems - Composants accessibles
-  - 🤖 AI Tools - Modèles pré-entraînés
-  - 📚 Documentation - Guides techniques détaillés
-
-Speaking & Mentoring:
-  - 🎤 Conférences tech - Symfony Live, React Conf
-  - 👨‍🏫 Workshops - Formation équipes
-  - 📝 Articles - Medium, Dev.to, blog personnel
-  - 🎯 Mentoring - 20+ développeurs accompagnés
-```
-
----
-
-## 🎯 **Ce qui m'anime**
-
-<div align="center">
-
-| 🔥 **Innovation** | 🤝 **Collaboration** | 📈 **Excellence** | 🌱 **Growth** |
+| 💪 Discipline | 🚀 Vision | 💡 Créativité | 🙏 Foi |
 |:---:|:---:|:---:|:---:|
-| Toujours à l'avant-garde | Code review & pair programming | Clean code & best practices | Veille techno permanente |
-
-</div>
+| Travailler avec rigueur | Construire l’avenir | Allier tech & inspiration | Faire tout pour la gloire de Dieu |
 
 ---
 
-## 🤝 **Collaborons sur du Lourd !**
+## 🤝 Collaborons
 
-### 🚀 **Types de missions qui m'excitent :**
-
-- **🏗️ Architecture complexe** - Microservices, event sourcing, CQRS
-- **🎨 Product Design** - De l'idée au produit fini, UX research incluse  
-- **🤖 IA Integration** - ChatGPT, computer vision, NLP dans vos apps
-- **⚡ Performance** - Optimisation ultra-poussée, real-time systems
-- **🌐 Projets internationaux** - Scale global, multi-langues, multi-devises
-- **🔐 Fintech/Healthcare** - Conformité, sécurité, audit trail
-
-### 💎 **Mon approche :**
-> Je ne code pas juste des fonctionnalités, **je crafts des expériences**. 
-> 
-> Chaque ligne de code a sa raison d'être, chaque pixel son intention.
+### 🚀 Domaines de Collaboration
+- Développement **full-stack MERN / Next.js**
+- Création d’applications **mobiles React Native**
+- Intégration **IA / automatisation**
+- Conception **backend modulaire et scalable**
+- Développement **de plateformes à impact social ou spirituel**
 
 ---
 
-## 📬 **Let's Connect !**
+## 📬 Contact
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-kayumbaomari27%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayumbaomari27@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Rimao416-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rimao416)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rimao.dev-purple?style=for-the-badge&logo=safari&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming--soon-purple?style=for-the-badge&logo=safari&logoColor=white)](#)
 
 </div>
 
@@ -232,8 +145,7 @@ Speaking & Mentoring:
 
 <div align="center">
 
-### 💫 *"Code is poetry, design is storytelling, and together they create magic."*
-
-**⭐ Si mes projets vous inspirent, n'hésitez pas à star les repos !**
+### 💫 *"Le code n’est pas qu’une compétence, c’est un appel à bâtir ce qui n’existe pas encore."*  
+**⭐ Si mes projets t’inspirent, laisse une étoile et construisons ensemble !**
 
 </div>
